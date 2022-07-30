@@ -3,7 +3,7 @@
 
 Atualmente estou estudando Frontend na Trybe.
 
-joao.gomeshugilL@gmail.com
+joao.gomeshugill@gmail.com
 
 <div align="center">
   <a href="https://github.com/jgomesh">
