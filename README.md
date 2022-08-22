@@ -1,7 +1,9 @@
 
 ## Olá, sou o João Otávio.
 
-Atualmente estou estudando Frontend na Trybe.
+Desenvolvedor Junior - Front end
+
+Atualmente estou estudando Back end na Trybe.
 
 joao.gomeshugill@gmail.com
 
