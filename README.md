@@ -1,9 +1,7 @@
 
 ## Olá, sou o João Otávio.
 
-Desenvolvedor Junior - Front end na Gauge
-
-Atualmente estou estudando Back end na Trybe.
+Desenvolvedor Junior - Fullstack na Gauge
 
 joao.gomeshugill@gmail.com
 
