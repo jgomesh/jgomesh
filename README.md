@@ -1,7 +1,7 @@
 
 ## Olá, sou o João Otávio.
 
-Desenvolvedor Junior - Fullstack na Gauge
+Desenvolvedor Junior - Full Stack na Gauge
 
 joao.gomeshugill@gmail.com
 
