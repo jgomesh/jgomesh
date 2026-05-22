@@ -1,7 +1,7 @@
 
 ## Olá, sou o João Otávio.
 
-Desenvolvedor - Full Stack na Stefanini
+Desenvolvedor - Full Stack na Wraly
 
 joao.gomeshugill@gmail.com
 
